@@ -10,12 +10,16 @@ This repository contains contains an example machine learning project to explain
 2. Open Command Prompt (Windows), Terminal (Mac and Linux).
 3. Go to the folder of you choice by using the cd command
 
-Example - cd Desktop/machinelearning/projects
+Example: 
+```sh
+cd Desktop/machinelearning/projects
 
 git clone "URL of Repository"
 
 cd "folder name"
 
 code .
+```
+
 
 4. Now VS Code should open with your folder showing. Open main.ipynb and follow along!
